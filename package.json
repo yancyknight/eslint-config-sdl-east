@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-sdl-east",
+  "version": "1.0.0",
+  "description": "An ESLint configuration for SDL's EASTeam.",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "keywords": [],
+  "author": "Yancy Knight",
+  "license": "MIT"
+}
